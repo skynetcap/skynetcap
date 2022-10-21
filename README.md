@@ -1,2 +1,2 @@
 - 🔭 I’m currently working on: [OpenSerum](https://openserum.io), and other Solana DeFi projects.
-- 📫 How to reach me: mmorrell.com
+- 📫 How to reach me: [mmorrell.com](mmorrell.com)
